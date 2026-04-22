@@ -26,7 +26,7 @@ API Documentation: RESTful endpoints documented via Swagger/Postman for ease of 
 ## 🔐 Demo Credentials
 Use these credentials to explore the Admin Dashboard features:
 - **Email:** `Admin@gmail.com`
-- **Password:** `Unnati@gmail.com`
+- **Password:** `Unnati30`
 
 ⚙️ Development Setup
 To run this project locally, ensure you have Node.js installed.
