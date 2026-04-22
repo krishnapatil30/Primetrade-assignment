@@ -5,6 +5,16 @@ A scalable Full-Stack Task Management application featuring JWT-based Authentica
 Frontend Dashboard (Vercel): https://primetrade-assignment-gamma.vercel.app/
 
 Backend API (Render): https://primetrade-assignment-jkwc.onrender.com/
+ ## 📝 How to Use
+1. **Register/Login:** Use your credentials to access the dashboard.
+2. **Post a Task:** Once logged in, use the "Create Task" button to add a new task,update,delete it.
+3. **Manage Tasks:** Admins can view, edit, or delete tasks created by any users.
+   ## 🚀 API Endpoints
+- `POST /api/auth/register`: Create a new account.
+- `POST /api/auth/login`: Authenticate and receive a JWT.
+- `POST /api/tasks`: Create a new task (**Requires Login**).
+- `GET /api/tasks`: Retrieve all tasks.
+- `DELETE /api/tasks/:id`: Remove a task (Admin/Owner only).
 
 🛠 Tech Stack
 Backend: Node.js, Express.js, MongoDB (Atlas)
