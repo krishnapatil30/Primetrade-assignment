@@ -23,6 +23,10 @@ Role-Based Access (RBAC): Admin and User roles to restrict route access and ensu
 CRUD Operations: Full lifecycle management for tasks (Create, Read, Update, Delete) with persistent storage.
 
 API Documentation: RESTful endpoints documented via Swagger/Postman for ease of integration.
+## 🔐 Demo Credentials
+Use these credentials to explore the Admin Dashboard features:
+- **Email:** `Admin@gmail.com`
+- **Password:** `Unnati@gmail.com`
 
 ⚙️ Development Setup
 To run this project locally, ensure you have Node.js installed.
